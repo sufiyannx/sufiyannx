@@ -1,4 +1,4 @@
-- Hi, I’m Sufiyan Ali!!
+- Hi, I’m Sufiyan Ali
 - I’m interested in web development and progarmming.
 - I’m currently learning frontend.
 - I'm also learning Java programming language.
